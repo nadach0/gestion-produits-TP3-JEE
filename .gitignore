@@ -1,0 +1,16 @@
+target/
+*.war
+*.jar
+*.class
+
+
+.vscode/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# Fichiers système Windows
+Thumbs.db
+.DS_Store
